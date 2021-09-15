@@ -1,4 +1,4 @@
-# hashnode-blogs
+# Hashnode Blogs
 
 This is a backup repository from my [Hashnode blog](https://blog.lokeshparmar998.tech/). 
 
