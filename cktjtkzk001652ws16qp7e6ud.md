@@ -143,7 +143,7 @@ With this, our project is now live on ```localhost:3000``` of our instance. You 
 <div id='Setting-up-Nginx'/>
 ## Setting up Nginx
 
-Now we have our project running on localhost:3000, let's reverse proxy it using [nginx](https://www.nginx.com/) server. Let's first install it using the command:
+Now we have our project running on localhost:3000, let's reverse proxy it using [nginx](https://www.nginx.com/) server.
 
 > Learn more about reverse proxy [here](https://www.cloudflare.com/en-in/learning/cdn/glossary/reverse-proxy/).
 
